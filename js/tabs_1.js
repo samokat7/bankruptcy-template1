@@ -1,0 +1,1 @@
+document.addEventListener("DOMContentLoaded",function(){document.querySelectorAll("[data-tabs]").forEach(a=>{new Tabs(a,{navName:"data-tabs-nav"})})});

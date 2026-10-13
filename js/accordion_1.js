@@ -1,0 +1,1 @@
+document.addEventListener("DOMContentLoaded",function(){document.querySelectorAll("[data-accordion]").forEach(e=>{new Accordion(e,{setOn:991})})});

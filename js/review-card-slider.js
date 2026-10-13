@@ -1,0 +1,1 @@
+document.addEventListener("DOMContentLoaded",function(){sliderDefaultPoints({nameSlider:"review-card-slider",spaceBetween992:12,breakpoints992:3,spaceBetween768:12,breakpoints768:2,spaceBetween575:12,breakpoints575:"auto",spaceBetweenMin:12,breakpointsMin:"auto"})});

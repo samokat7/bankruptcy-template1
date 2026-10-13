@@ -1,0 +1,33 @@
+<svg width="1116" height="570" viewBox="0 0 1116 570" fill="none" xmlns="http://www.w3.org/2000/svg">
+	<g opacity=".3" filter="url(#filter0_f_2029_19350)">
+		<ellipse cx="564.539" cy="284.085" rx="353.815" ry="189.02" transform="rotate(-10.566 564.539 284.085)" fill="#fff" fill-opacity=".7"/>
+	</g>
+	<g filter="url(#filter1_f_2029_19350)">
+		<circle cx="409" cy="437" r="63" fill="#1D3056"/>
+	</g>
+	<rect x="50" y="608" width="718.42" height="718.42" rx="50" transform="rotate(-45 50 608)" stroke="url(#paint0_linear_2029_19350)" stroke-width="140" stroke-miterlimit="1.155"/>
+	<g filter="url(#filter2_f_2029_19350)">
+		<circle cx="769" cy="231" r="63" fill="#224384"/>
+	</g>
+	<defs>
+		<filter id="filter0_f_2029_19350" x="80.974" y="-46.784" width="967.129" height="661.739" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+			<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+			<feBlend in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+			<feGaussianBlur stdDeviation="67" result="effect1_foregroundBlur_2029_19350"/>
+		</filter>
+		<filter id="filter1_f_2029_19350" x="181" y="209" width="456" height="456" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+			<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+			<feBlend in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+			<feGaussianBlur stdDeviation="82.5" result="effect1_foregroundBlur_2029_19350"/>
+		</filter>
+		<filter id="filter2_f_2029_19350" x="606" y="68" width="326" height="326" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+			<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+			<feBlend in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+			<feGaussianBlur stdDeviation="50" result="effect1_foregroundBlur_2029_19350"/>
+		</filter>
+		<linearGradient id="paint0_linear_2029_19350" x1="820.878" y1="317.984" x2="-51.157" y2="1002.78" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#EEF1F8" stop-opacity=".48"/>
+			<stop offset="1" stop-color="#EEF1F8" stop-opacity="0"/>
+		</linearGradient>
+	</defs>
+</svg>

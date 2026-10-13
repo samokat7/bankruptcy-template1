@@ -1,0 +1,11 @@
+/*   
+Theme Name: bdcon 01.04.2025
+Theme URI: https://bdcon.ru/
+Description: 01.04.2025
+Author: Tango
+Author URI: https://bdcon.ru/
+*/
+
+a.city-modal__town::first-letter {
+    text-transform: uppercase;
+}

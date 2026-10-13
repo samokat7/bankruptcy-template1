@@ -1,0 +1,1 @@
+document.addEventListener("DOMContentLoaded",function(){sliderDefaultPoints({nameSlider:"article-item-slider",spaceBetween992:12,breakpoints992:4,spaceBetween768:12,breakpoints768:3,spaceBetween575:12,breakpoints575:2,spaceBetweenMin:12,breakpointsMin:1})});
